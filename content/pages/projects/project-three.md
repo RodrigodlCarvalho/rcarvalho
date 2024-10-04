@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: One more cool project
+title: Desenvolvimeto de páginas web estáticas
 colors: colors-a
 date: '2022-01-22'
 client: Awesome client
