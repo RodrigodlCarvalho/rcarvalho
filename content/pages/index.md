@@ -13,9 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: >-
-      I’m a developer, digital artist, consultant and a bunch of other
-      impressive titles and buzz words.
+    title: Rodrigo Carvalho
     subtitle: >-
       Sou um aluno do Curso Técnico de Gestão e Programação de Sistemas
       Informáticos na OFICINA-Escola Profissional do INA
