@@ -17,7 +17,7 @@ sections:
       I’m a developer, digital artist, consultant and a bunch of other
       impressive titles and buzz words.
     subtitle: >-
-      Souu um aluno do Curso Técnico de Gestão e Programação de Sistemas
+      Sou um aluno do Curso Técnico de Gestão e Programação de Sistemas
       Informáticos na OFICINA-Escola Profissional do INA
     styles:
       self:
