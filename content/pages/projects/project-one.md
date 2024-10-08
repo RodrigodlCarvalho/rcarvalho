@@ -5,9 +5,9 @@ colors: colors-a
 date: '2021-10-15'
 client: Awesome client
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+  Para fazer o meu site inspirei me no fifa, ele consiste em selecionar o país
+  do jogador, a posição e o nome do jogador.Tendo selecionado essas opções e
+  clicando em enviar, vai aparecer a imagem do jogador selecionado.
 featuredImage:
   type: ImageBlock
   url: /images/rafaele.PNG
